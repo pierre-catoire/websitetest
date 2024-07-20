@@ -1,0 +1,8 @@
+# Site settings
+title: OpenBase.care
+author:
+  name: Pierre Catoire
+description: "Openbase website"
+
+# Build settings
+remote_theme: jekyll/minima
